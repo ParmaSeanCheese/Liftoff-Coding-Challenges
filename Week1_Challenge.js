@@ -1,0 +1,3 @@
+function triArea(base, height) {
+	
+}
